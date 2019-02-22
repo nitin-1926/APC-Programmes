@@ -4,6 +4,7 @@
 #include<windows.h>
 #include<time.h>
 #include<bits/stdc++.h>
+//hello
 using namespace std;
 void check();
 char board[21][41];
